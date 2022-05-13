@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BitCoinManagerModels.BitCoin
+namespace BitCoinManagerModels
 {
     public class User
     {
