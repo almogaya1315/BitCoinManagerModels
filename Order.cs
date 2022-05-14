@@ -14,7 +14,7 @@ namespace BitCoinManagerModels
 
     public enum OrderOperation
     {
-        Buy,
-        Sell
+        Buy = 1,
+        Sell = 2
     }
 }
